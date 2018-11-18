@@ -7,3 +7,5 @@ Rebase Conflict demo appleicon2.png javacript2.8.4
 
 to know the reflog retrieves and restores
 
+annotated tags
+
