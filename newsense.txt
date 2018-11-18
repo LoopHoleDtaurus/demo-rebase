@@ -9,3 +9,4 @@ to know the reflog retrieves and restores
 
 annotated tags
 
+edited the mormalize.css stylesheet file
