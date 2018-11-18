@@ -3,4 +3,7 @@ Just a test to rebase
 Demonstration of Rebase Demo
 
 Latest browser version recommended
-Rebase Conflict demo appleicon2.png javacript2.8.4 
+Rebase Conflict demo appleicon2.png javacript2.8.4
+
+to know the reflog retrieves and restores
+
