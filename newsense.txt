@@ -1,5 +1,7 @@
 Just a test to rebase
 
-Rebase Demo
+Demonstration of Rebase Demo
 
 Latest browser version recommended
+
+appletouch icon javascript2.0
