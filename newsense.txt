@@ -3,5 +3,4 @@ Just a test to rebase
 Demonstration of Rebase Demo
 
 Latest browser version recommended
-
-appletouch icon javascript2.0
+Rebase Conflict demo appleicon2.png javacript2.8.4 
